@@ -62,8 +62,6 @@ Examine the relationship between junction control and accident outcomes.
 
 📉 Matplotlib / Seaborn: For creating static visualizations.
 
-🌍 Folium: For interactive maps to visualize accident hotspots.
-
 📊 Visualizations :
 
 🗺️ Geospatial Maps : Displaying accident hotspots based on latitude and location data.
